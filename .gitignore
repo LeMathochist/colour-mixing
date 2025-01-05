@@ -1,3 +1,4 @@
 #.gitignore mixbox
 
 .venv
+**/.DS_store
